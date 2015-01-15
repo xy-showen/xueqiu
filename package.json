@@ -1,0 +1,30 @@
+{
+  "name": "xueqiu",
+  "version": "0.0.1",
+  "description": "xueqiu cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xy-showen/xueqiu.git"
+  },
+  "homepage": "https://github.com/xy-showen/xueqiu",
+  "keywords": [
+    "xueqiu"
+  ],
+  "author": {
+    "name": "Showen",
+    "email": "568828193@qq.com"
+  },
+  "license": "MIT",
+  "readme": "xueqiu cli!",
+  "bugs": {
+    "url": "https://github.com/xy-showen/xueqiu/issues"
+  },
+  "dependencies": {
+    "terminal-menu": "^2.1.1",
+    "better-console": "^0.2.3"
+  }
+}
